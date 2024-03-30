@@ -1,0 +1,14 @@
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\bin\Debug\net8.0\task2.exe
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\bin\Debug\net8.0\task2.deps.json
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\bin\Debug\net8.0\task2.dll
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\bin\Debug\net8.0\task2.pdb
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.dll
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\refint\task2.dll
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.pdb
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\Users\alex_\Desktop\Обучение в geekbrains\3. Знакомство с языками программирования\CSARP\DZ7\task2\obj\Debug\net8.0\ref\task2.dll
